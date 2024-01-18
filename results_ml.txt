@@ -1,0 +1,2 @@
+the RMSE is : 0.0013875109143555164,the R2 is 0.7549953102354344 on the test dataset and the MAE is 0.019568301737308502 model1
+the RMSE is : 0.0022978968918323517,the R2 is 0.9976324772783085 on the test dataset and the MAE is 0.024508493021130562 model2
